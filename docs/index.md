@@ -14,6 +14,8 @@ consistent manner.
 * GPT actions call **AWS Lambda** functions to perform ETL on D&D Beyond data.
 * GPT actions use secrets, i.e. API access token(s).
 
+<img src="../images/arcane_paintbrush_01.jpg">
+
 ## Vector Le Magnifique
 
 An illustrator for corporate presentations.
