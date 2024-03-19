@@ -1,5 +1,5 @@
 title: joynt.co.uk GPTs
 description: Bookmark this to keep track of my GPT creations!
-remote_theme: jekyll/minima
+remote_theme: jekyll/slate
 plugins:
 - jekyll-remote-theme
