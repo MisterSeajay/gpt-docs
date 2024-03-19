@@ -1,3 +1,10 @@
 title: joynt.co.uk GPTs
+tagline: GPTs created by joynt.co.uk
 description: Bookmark this to keep track of my GPT creations!
 remote_theme: poole/hyde
+url: https://gpt.joynt.co.uk
+baseurl: /
+
+github:
+  repository: https://github.com/cjj1977/gpt-docs
+  branch: main
