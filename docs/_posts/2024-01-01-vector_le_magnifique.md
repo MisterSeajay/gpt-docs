@@ -1,6 +1,11 @@
 ---
 layout: post
 title: Vector Le Magnifique
+tags:
+  - ChatGPT
+  - GPT
+  - DALL-E
+  - image generation
 ---
 
 ## About

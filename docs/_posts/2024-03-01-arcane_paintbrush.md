@@ -1,6 +1,11 @@
 ---
 layout: post
 title: The Arcane Paintbrush
+tags:
+  - ChatGPT
+  - GPT
+  - DALL-E
+  - image generation
 ---
 
 An illustrator for role-playing game characters. Attempts to use a consistent
