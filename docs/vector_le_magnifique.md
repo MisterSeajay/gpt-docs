@@ -1,5 +1,8 @@
-# Vector Le Magnifique
+---
+layout: page
+title: Vector Le Magnifique
+---
 
 An illustrator for corporate presentations.
 
-* [GPT link](https://chat.openai.com/g/g-wagBADp7N-vector-le-magnifique)
+* [Open in ChatGPT](https://chat.openai.com/g/g-wagBADp7N-vector-le-magnifique)

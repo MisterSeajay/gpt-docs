@@ -1,10 +1,13 @@
-# The Arcane Paintbrush
+---
+layout: page
+title: The Arcane Paintbrush
+---
 
 An illustrator for role-playing game characters. Attempts to use a consistent
 fantasy art style, responding to requests such as "sketches" or "studies" in a
 consistent manner.
 
-* [GPT link](https://chat.openai.com/g/g-3R9svhPj5-arcane-paintbrush)
+* [Open in ChatGPT](https://chat.openai.com/g/g-3R9svhPj5-arcane-paintbrush)
 
 ## Behind the scenes
 
