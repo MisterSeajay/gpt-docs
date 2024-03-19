@@ -1,6 +1,6 @@
 ---
-layout: page
-title: "OpenAI GPTs"
+layout: default
+title: Home
 ---
 
 This page is a one-stop listing of GPTs created by [joynt.co.uk](https://dev.joynt.co.uk).
