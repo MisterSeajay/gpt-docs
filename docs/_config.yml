@@ -1,4 +1,4 @@
-theme: hacker
+theme: jekyll-theme-hacker
 
 title: Custom GPTs by dev.joynt.co.uk
 tagline: GPTs created by joynt.co.uk
@@ -8,6 +8,7 @@ description: >
   remote API endpoints.
 url: https://gpt.joynt.co.uk
 baseurl: /
+show_downloads: false
 
 author:
   name: Charles Joynt
