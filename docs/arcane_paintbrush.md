@@ -2,8 +2,6 @@
 title: Arcane Paintbrush
 layout: single
 classes: wide
-sidebar:
-  nav: "docs"
 tags:
   - ChatGPT
   - GPT

@@ -18,4 +18,12 @@ author:
   name: Charles Joynt
   url: https://dev.joynt.co.uk
 
+defaults:
+  - scope:
+      path: ""
+      type: docs
+    sidebar:
+      nav: "docs"
+
+
 repository: cjj1977/gpt-docs
