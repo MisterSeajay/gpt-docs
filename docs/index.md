@@ -1,6 +1,6 @@
 ---
-layout: default
-title: Home
+layout: page
+title: GPTs
 ---
 
 This page is a one-stop listing of GPTs created by
