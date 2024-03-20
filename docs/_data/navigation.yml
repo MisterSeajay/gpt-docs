@@ -1,7 +1,5 @@
 # Header
 main:
-  - title: "Home"
-    url: "/index.html"
   - title: "Arcane Paintbrush"
     url: /arcane_paintbrush.html
   - title: "Vector Le Magnifique"
@@ -9,6 +7,12 @@ main:
 
 # Sidebars
 docs:
+  - title: Site
+    children:
+      - title: "Home"
+        url: /index.html
+      - title: "Blogs"
+        url: /blogs.html
   - title: GPTs
     url: "/index.html"
     children:
