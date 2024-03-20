@@ -1,6 +1,4 @@
-remote_theme: poole/hyde
-plugins:
-  - jekyll-remote-theme
+theme: hacker
 
 title: Custom GPTs by dev.joynt.co.uk
 tagline: GPTs created by joynt.co.uk
