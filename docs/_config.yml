@@ -20,7 +20,7 @@ author:
 
 defaults:
 - sidebar:
-      nav: "docs"
+    nav: "docs"
 
 
 repository: cjj1977/gpt-docs

@@ -14,18 +14,13 @@ header:
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 excerpt: "Use the buttons here to open the GPTs in ChatGPT"
 intro: 
-  - excerpt: >
-    "This page is a one-stop listing of GPTs created by [joynt.co.uk](https://dev.joynt.co.uk).
-    Use this page to find a GPT or explore some (brief) details about what the GPTs do."
+  - excerpt: "This page is a one-stop listing of GPTs created by [joynt.co.uk](https://dev.joynt.co.uk). Use this page to find a GPT or explore some (brief) details about what the GPTs do."
 
 feature_row:
   - image_path: assets/images/arcane_paintbrush_01.jpg
     alt: "The Arcane Paintbrush"
     title: "The Arcane Paintbrush"
-    excerpt: >
-      "An illustrator for role-playing game characters. Attempts to use a consistent
-      fantasy art style, responding to requests such as "sketches" or "studies" in a
-      consistent manner."
+    excerpt: "An illustrator for role-playing game characters. Attempts to use a consistent fantasy art style, responding to requests such as "sketches" or "studies" in a consistent manner."
     url: "/arcane_paintbrush.html"
     btn_label: "Read More"
     btn_class: "btn--primary"
@@ -39,6 +34,5 @@ feature_row:
     btn_class: "btn--primary"
   - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
     title: "Placeholder 3"
-    excerpt: >
-      "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
 ---
