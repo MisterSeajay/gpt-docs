@@ -4,12 +4,12 @@ plugins:
 remote_theme: mmistakes/minimal-mistakes@4.24.0
 
 locale: en-GB
-title: Custom GPTs
-subtitle: Created by dev.joynt.co.uk
+title: gpt.joynt.co.uk
+subtitle: Chat with my GPTs
 description: >
   A collection of GPTs made for use in ChatGPT Plus, providing customized
   ChatGPT system instructions, use of bespoke Knowledge Documents and access to
-  remote API endpoints.
+  remote API endpoints via GPT Actions.
 url: https://gpt.joynt.co.uk
 baseurl: /
 show_downloads: false
