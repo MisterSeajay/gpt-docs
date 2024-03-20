@@ -1,22 +1,22 @@
 # Header
 main:
   - title: "Arcane Paintbrush"
-    url: /arcane_paintbrush.html
+    url: /arcane_paintbrush/
   - title: "Vector Le Magnifique"
-    url: /vector_le_magnifique.html
+    url: /vector_le_magnifique/
 
 # Sidebars
 docs:
   - title: Site
     children:
       - title: "Home"
-        url: /index.html
-      - title: "Blogs"
-        url: /blogs.html
+        url: /
+      - title: "Posts"
+        url: /posts/
   - title: GPTs
     url: "/index.html"
     children:
       - title: "Arcane Paintbrush"
-        url: /arcane_paintbrush.html
+        url: /arcane_paintbrush/
       - title: "Vector Le Magnifique"
-        url: /vector_le_magnifique.html
+        url: /vector_le_magnifique/

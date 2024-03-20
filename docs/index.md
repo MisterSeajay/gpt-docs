@@ -1,6 +1,7 @@
 ---
 layout: splash
 title: GPTs
+permalink: /
 
 header:
   overlay_color: "#000"

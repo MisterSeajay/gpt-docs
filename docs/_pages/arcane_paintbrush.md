@@ -2,6 +2,7 @@
 title: Arcane Paintbrush
 layout: single
 classes: wide
+permalink: /arcane_paintbrush/
 tags:
   - ChatGPT
   - GPT

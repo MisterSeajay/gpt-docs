@@ -2,6 +2,7 @@
 title: Vector Le Magnifique
 layout: single
 classes: wide
+permalink: /vector_le_magnifique/
 tags:
   - ChatGPT
   - GPT
