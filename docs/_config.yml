@@ -1,4 +1,7 @@
-theme: minimal-mistakes-jekyll
+plugins:
+  - jekyll-include-cache
+
+remote_theme: mmistakes/minimal-mistakes@4.24.0
 
 locale: en-GB
 title: Custom GPTs by dev.joynt.co.uk
