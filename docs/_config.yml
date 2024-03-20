@@ -13,14 +13,29 @@ description: >
 url: https://gpt.joynt.co.uk
 baseurl: /
 show_downloads: false
+include: ["_pages"]
 
 author:
   name: Charles Joynt
   url: https://dev.joynt.co.uk
 
 defaults:
-- sidebar:
-    nav: "docs"
-
-
+  # pages
+  - scope:
+      path: ""
+    values:
+      sidebar:
+        nav: "docs"
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+    
 repository: cjj1977/gpt-docs
