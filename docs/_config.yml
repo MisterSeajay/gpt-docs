@@ -13,6 +13,7 @@ description: >
 url: https://gpt.joynt.co.uk
 baseurl: /
 show_downloads: false
+include: ["_pages"]
 
 author:
   name: Charles Joynt
