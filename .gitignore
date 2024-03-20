@@ -1,6 +1,3 @@
-# Local files
-*.webp
-
 # Jeckyll defaults
 _site/
 .sass-cache/
