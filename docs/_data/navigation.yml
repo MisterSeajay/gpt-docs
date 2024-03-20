@@ -4,7 +4,7 @@ main:
   - title: "Vector Le Magnifique"
     url: /vector_le_magnifique.html
 
-pages:
+docs:
   - title: GPTs
     children:
       - title: "Arcane Paintbrush"
