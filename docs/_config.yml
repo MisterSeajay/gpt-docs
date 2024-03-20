@@ -1,7 +1,8 @@
-theme: jekyll-theme-hacker
+theme: minimal-mistakes-jekyll
 
+locale: en-GB
 title: Custom GPTs by dev.joynt.co.uk
-tagline: GPTs created by joynt.co.uk
+subtitle: GPTs created by joynt.co.uk
 description: >
   A collection of GPTs made for use in ChatGPT Plus, providing customized
   ChatGPT system instructions, use of bespoke Knowledge Documents and access to
@@ -14,10 +15,4 @@ author:
   name: Charles Joynt
   url: https://dev.joynt.co.uk
 
-paginate: 5
-
-version: 1.0.1
-
-github:
-  repository: https://github.com/cjj1977/gpt-docs
-  branch: main
+repository: cjj1977/gpt-docs
