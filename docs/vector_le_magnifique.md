@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Vector Le Magnifique
 tags:
   - ChatGPT

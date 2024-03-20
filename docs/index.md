@@ -3,9 +3,9 @@ layout: default
 title: Home
 ---
 
-This page is a one-stop listing of GPTs created by [joynt.co.uk](https://dev.joynt.co.uk).
-Use this page to find a GPT or explore some (brief) details about what the GPTs
-do.
+This page is a one-stop listing of GPTs created by
+[joynt.co.uk](https://dev.joynt.co.uk). Use this page to find a GPT or explore
+some (brief) details about what the GPTs do.
 
 ## The Arcane Paintbrush
 

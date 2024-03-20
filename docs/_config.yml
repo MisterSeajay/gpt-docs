@@ -1,9 +1,14 @@
-title: joynt.co.uk GPTs
-tagline: GPTs created by joynt.co.uk
-description: Bookmark this to keep track of my GPT creations!
-remote_theme: poole/hyde
+title: Custom GPTs by dev.joynt.co.uk
 url: https://gpt.joynt.co.uk
 baseurl: /
+description: >
+  A collection of GPTs made for use in ChatGPT Plus, providing customized
+  ChatGPT system instructions, use of bespoke Knowledge Documents and access to
+  remote API endpoints.
+  
+remote_theme: poole/hyde
+
+tagline: GPTs created by joynt.co.uk
 
 github:
   repository: https://github.com/cjj1977/gpt-docs

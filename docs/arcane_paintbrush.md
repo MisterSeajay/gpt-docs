@@ -1,6 +1,6 @@
 ---
-layout: post
-title: The Arcane Paintbrush
+layout: page
+title: Arcane Paintbrush
 tags:
   - ChatGPT
   - GPT
@@ -24,8 +24,8 @@ consistent manner.
 
 <table align="center" width="70%">
   <tr><td width="40%">
-    <img src="/_assets/arcane_paintbrush_01.jpg">
+    <img src="/images/arcane_paintbrush_01.jpg">
   </td><td width="55%">
-    <img src="/_assets/arcane_paintbrush_02.jpg">
+    <img src="/images/arcane_paintbrush_02.jpg">
   </td></tr>
 </table>
