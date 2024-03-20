@@ -39,5 +39,6 @@ feature_row:
     btn_class: "btn--primary"
   - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
     title: "Placeholder 3"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: >
+      "This is some sample content that goes here with **Markdown** formatting."
 ---

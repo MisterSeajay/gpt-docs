@@ -19,10 +19,7 @@ author:
   url: https://dev.joynt.co.uk
 
 defaults:
-  - scope:
-      path: ""
-      type: docs
-    sidebar:
+- sidebar:
       nav: "docs"
 
 
