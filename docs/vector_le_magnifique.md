@@ -1,6 +1,8 @@
 ---
 layout: single
 title: Vector Le Magnifique
+sidebar:
+  nav: "docs"
 tags:
   - ChatGPT
   - GPT

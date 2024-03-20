@@ -1,5 +1,7 @@
 ---
 layout: splash
+sidebar:
+  nav: "docs"
 title: GPTs
 ---
 
