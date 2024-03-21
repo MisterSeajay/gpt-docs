@@ -15,7 +15,7 @@ header:
   caption: "Photo credit: [**Patrick Fore** via _unsplash.com_](https://unsplash.com/@patrickian4)"
 
 intro: 
-  - excerpt: "This page is a one-stop listing of GPTs created by [joynt.co.uk](https://dev.joynt.co.uk). Use this page to find a GPT or explore some (brief) details about what the GPTs do."
+  - excerpt: "GPTs are custom versions of ChatGPT that are tailored for specific tasks or topics. This page is a one-stop listing of GPTs created by [joynt.co.uk](https://dev.joynt.co.uk). Use this page to find a GPT or explore some (brief) details about what these GPTs do."
 
 feature_row:
   - image_path: /assets/images/arcane_paintbrush.jpg
