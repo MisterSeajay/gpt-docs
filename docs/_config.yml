@@ -36,6 +36,15 @@ masthead_title: "Custom GPTs"
 name: "Charles Joynt"
 teaser: /assets/images/88x88.jpg
 
+# Archive settings
+# https://mmistakes.github.io/minimal-mistakes/docs/configuration/#archive-settings
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
+
 defaults:
   # pages
   - scope:
