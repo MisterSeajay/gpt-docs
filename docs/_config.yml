@@ -3,7 +3,7 @@
 # See also:
 # > https://mmistakes.github.io/minimal-mistakes/docs/configuration/#plugins
 #
-#plugins:
+plugins:
   - jekyll-include-cache
 
 # Theme
