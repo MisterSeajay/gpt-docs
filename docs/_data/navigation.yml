@@ -4,6 +4,8 @@ main:
     url: /arcane_paintbrush/
   - title: "Vector Le Magnifique"
     url: /vector_le_magnifique/
+  - title "Posts"
+    url: /posts/
 
 # Sidebars
 docs:
