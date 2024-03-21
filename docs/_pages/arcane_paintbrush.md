@@ -7,7 +7,7 @@ gallery:
   - url: /assets/images/arcane_paintbrush_01.jpg
     image_path: /assets/images/arcane_paintbrush_01.jpg
     alt: "Arcane Paintbrush example 1"
-  - url: /assets/images/arcane_paintbrush_01.jpg
+  - url: /assets/images/arcane_paintbrush_02.jpg
     image_path: /assets/images/arcane_paintbrush_02.jpg
     alt: "Arcane Paintbrush example 2"
 ---
