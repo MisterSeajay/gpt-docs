@@ -33,7 +33,7 @@ timezone: Europe/London
 # https://mmistakes.github.io/minimal-mistakes/docs/configuration
 logo: /assets/images/88x88.jpg
 masthead_title: "Custom GPTs"
-name: "Charles Joynt"
+name: "MisterSeajay"
 teaser: /assets/images/88x88.jpg
 
 # Archive settings
@@ -60,7 +60,7 @@ defaults:
     values:
       layout: single
       date_format: "%d %B %Y"
-      author: Charles Joynt
+      author: MisterSeajay
       author_profile: true
       read_time: false
       comments: false
