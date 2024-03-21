@@ -18,4 +18,4 @@ Features used in this site include:
 * Images, especially on the ["splash page"](https://gpt.joynt.co.uk/)
 * Permalinks for pages, esp. for GPT pages,
 e.g. [/arcane_paintbrush/](https://gpt.joynt.co.uk/arcane_paintbrush)
-* [category](/category/) and [tag](/tag/) pages for posts.
+* New [category](./category/) and [tag](./tag/) pages for posts.
