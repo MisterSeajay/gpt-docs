@@ -23,5 +23,3 @@ Features used in this site include:
 * Permalinks for pages, esp. for GPT pages,
 e.g. [/arcane_paintbrush/](https://gpt.joynt.co.uk/arcane_paintbrush)
 * New [category](./category/) and [tag](./tag/) pages for posts.
-* Portfolio collections,
-e.g. [/gpts/](https://gpt.joynt.co.uk/gpts/)
