@@ -1,10 +1,10 @@
 ---
 layout: splash
-title: GPTs
+title: GPTs for ChatGPT
 permalink: /
 
 header:
-  overlay_color: "#000"
+  overlay_color: "#FFF"
   overlay_filter: "0.5"
   overlay_image: /assets/images/patrick-fore-0gkw_9fy0eQ-unsplash.jpg
   actions:
