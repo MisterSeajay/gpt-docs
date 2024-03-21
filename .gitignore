@@ -1,3 +1,6 @@
+# Project excludes
+/desktop.ini
+
 # Jeckyll defaults
 _site/
 .sass-cache/
