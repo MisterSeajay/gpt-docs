@@ -1,48 +1,58 @@
-plugins:
-  - jekyll-include-cache
+# For GitHub pages some plugins are provided by default:
+# > https://pages.github.com/versions/
+# See also:
+# > https://mmistakes.github.io/minimal-mistakes/docs/configuration/#plugins
+#
+#plugins:
+#  - jekyll-include-cache
+#  - jekyll-remote-theme
 
 # Theme
 remote_theme: mmistakes/minimal-mistakes@4.24.0
 minimal_mistakes_skin: dirt
 
 # Site settings
-locale: en-GB
 title: gpt.joynt.co.uk
 title_separator: " | "
 subtitle: Chat with my GPTs
-name: "C J Joynt"
 description: >
   A collection of GPTs made for use in ChatGPT Plus, providing customized
   ChatGPT system instructions, use of bespoke Knowledge Documents and access to
   remote API endpoints via GPT Actions.
+# About site.url and site.baseurl:
+# https://byparker.com/blog/2014/clearing-up-confusion-around-baseurl/
 url: https://gpt.joynt.co.uk
 baseurl: /
 repository: cjj1977/gpt-docs
 show_downloads: false
 include: ["_pages"]
+timezone: Europe/London
 
-author:
-  name: Charles Joynt
-  links:
-    - label: "Website"
-      url: https://dev.joynt.co.uk
+# Minimal-Mistakes configuration options
+# https://mmistakes.github.io/minimal-mistakes/docs/configuration
+locale: en-GB
+logo: /assets/images/88x88.jpg
+masthead_title: "Custom GPTs"
+name: "Charles Joynt"
+teaser: /assets/images/88x88.jpg
 
 defaults:
   # pages
   - scope:
-      path: "_pages"
+      path: _pages
     values:
       sidebar:
-        nav: "docs"
+        nav: docs
   # _posts
   - scope:
-      path: "_posts"
+      path: _posts
       type: posts
     values:
       layout: single
+      date_format: "%d %B %Y"
       author: Charles Joynt
       author_profile: true
-      read_time: true
-      comments: true
+      read_time: false
+      comments: false
       share: true
       related: true
