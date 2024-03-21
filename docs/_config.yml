@@ -1,10 +1,11 @@
-# For GitHub pages some plugins are provided by default:
+# For GitHub Pages, only some plugins are available:
 # > https://pages.github.com/versions/
 # See also:
 # > https://mmistakes.github.io/minimal-mistakes/docs/configuration/#plugins
 #
 plugins:
   - jekyll-include-cache
+# - jekyll-remote-theme  # Seems to be included by default
 
 # Theme
 remote_theme: mmistakes/minimal-mistakes@4.24.0
@@ -25,11 +26,11 @@ baseurl: /
 repository: cjj1977/gpt-docs
 show_downloads: false
 include: ["_pages"]
+locale: en-GB
 timezone: Europe/London
 
 # Minimal-Mistakes configuration options
 # https://mmistakes.github.io/minimal-mistakes/docs/configuration
-locale: en-GB
 logo: /assets/images/88x88.jpg
 masthead_title: "Custom GPTs"
 name: "Charles Joynt"
@@ -48,6 +49,7 @@ defaults:
   # all pages
   - scope:
       path: ""
+      type: pages
     values:
       sidebar:
         nav: docs

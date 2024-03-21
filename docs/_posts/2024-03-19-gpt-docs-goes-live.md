@@ -1,8 +1,12 @@
 ---
 layout: single
 title: GPT docs pages go live
-category: Jekyll
-tags: "GitHub Pages" Jekyll
+categories:
+  - GitHub Pages
+tags:
+  - GitHub
+  - Jekyll
+  - website
 ---
 
 The documentation pages for [joynt.co.uk GPTs](https://gpt.joynt.co.uk) are now
