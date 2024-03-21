@@ -1,6 +1,11 @@
 MisterSeajay:
   name: MisterSeajay
+  bio: "I'm a Python developer with a passion for AI and machine learning. I'm currently working on a project to create custom GPTs for a variety of applications."
   avatar: /assets/images/MisterSeajay.jpg
   links:
     - label: "Website"
       url: https://dev.joynt.co.uk
+    - label: "GitHub"
+      url: https://github.com/cjj1977
+    - label: "StackOverflow"
+      url: https://stackoverflow.com/users/1234567/misterseajay
