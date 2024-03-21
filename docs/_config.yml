@@ -49,7 +49,6 @@ defaults:
   # all pages
   - scope:
       path: ""
-      type: docs
     values:
       sidebar:
         nav: docs
