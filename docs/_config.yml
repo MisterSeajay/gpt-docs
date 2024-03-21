@@ -1,41 +1,48 @@
 plugins:
   - jekyll-include-cache
 
+# Theme
 remote_theme: mmistakes/minimal-mistakes@4.24.0
+minimal_mistakes_skin: dirt
 
+# Site settings
 locale: en-GB
 title: gpt.joynt.co.uk
+title_separator: " | "
 subtitle: Chat with my GPTs
+name: "C J Joynt"
 description: >
   A collection of GPTs made for use in ChatGPT Plus, providing customized
   ChatGPT system instructions, use of bespoke Knowledge Documents and access to
   remote API endpoints via GPT Actions.
 url: https://gpt.joynt.co.uk
 baseurl: /
+repository: cjj1977/gpt-docs
 show_downloads: false
 include: ["_pages"]
 
 author:
   name: Charles Joynt
-  url: https://dev.joynt.co.uk
+  links:
+    - label: "Website"
+      url: https://dev.joynt.co.uk
 
 defaults:
   # pages
   - scope:
-      path: ""
+      path: "_pages"
     values:
       sidebar:
         nav: "docs"
   # _posts
   - scope:
-      path: ""
+      path: "_posts"
       type: posts
     values:
       layout: single
+      author: Charles Joynt
       author_profile: true
       read_time: true
       comments: true
       share: true
       related: true
-    
-repository: cjj1977/gpt-docs
