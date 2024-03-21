@@ -12,15 +12,15 @@ docs:
   - title: Home
     url: /
   - title: GPTs
-    url: "/index.html"
     children:
       - title: "Arcane Paintbrush"
         url: /arcane_paintbrush/
       - title: "Vector Le Magnifique"
         url: /vector_le_magnifique/
   - title: Posts
+    url: /posts/
     children:
-      - title: "Posts"
+      - title: "All Posts"
         url: /posts/
       - title: "By Category"
         url: /categories/
