@@ -3,6 +3,13 @@ title: Arcane Paintbrush
 layout: single
 classes: wide
 permalink: /arcane_paintbrush/
+gallery:
+  - url: /assets/images/arcane_paintbrush_01.jpg
+    image_path: /assets/images/arcane_paintbrush_01.jpg
+    alt: "Arcane Paintbrush example 1"
+  - url: /assets/images/arcane_paintbrush_01.jpg
+    image_path: /assets/images/arcane_paintbrush_02.jpg
+    alt: "Arcane Paintbrush example 2"
 ---
 
 An image-generating GPT intended to be used to illustrate role-playing game
@@ -32,6 +39,8 @@ A few example characters have been pre-loaded in the GPT including:
 
 In the screenshots below you can see that the GPT has created different images
 in slightly different styles, but retaining the key features of the character:
+
+{% include gallery caption="Example images from the Arcane Paintbrush." %}
 
 <table align="center">
   <tr><td><img
