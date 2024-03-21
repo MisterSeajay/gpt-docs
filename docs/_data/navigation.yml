@@ -9,12 +9,8 @@ main:
 
 # Sidebars
 docs:
-  - title: Site
-    children:
-      - title: "Home"
-        url: /
-      - title: "Posts"
-        url: /posts/
+  - title: Home
+    url: /
   - title: GPTs
     url: "/index.html"
     children:
@@ -22,3 +18,11 @@ docs:
         url: /arcane_paintbrush/
       - title: "Vector Le Magnifique"
         url: /vector_le_magnifique/
+  - title: Posts
+    children:
+      - title: "Posts"
+        url: /posts/
+      - title: "By Category"
+        url: /categories/
+      - title: "By Tag"
+        url: /tags/
