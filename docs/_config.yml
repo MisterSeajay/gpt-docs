@@ -46,10 +46,10 @@ tag_archive:
   path: /tags/
 
 defaults:
-  # pages
+  # all pages
   - scope:
       path: ""
-      type: pages
+      type: docs
     values:
       sidebar:
         nav: docs
