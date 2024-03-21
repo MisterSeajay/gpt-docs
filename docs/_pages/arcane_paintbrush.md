@@ -42,16 +42,6 @@ in slightly different styles, but retaining the key features of the character:
 
 {% include gallery caption="Example images from the Arcane Paintbrush." %}
 
-<table align="center">
-  <tr><td><img
-      style="height: 228px; width: auto;"
-      src="../assets/images/arcane_paintbrush_01.jpg">
-  </td><td><img
-      style="height: 228px; width: auto;"
-      src="../assets/images/arcane_paintbrush_02.jpg">
-  </td></tr>
-</table>
-
 ## Behind the scenes
 
 ### Actions
