@@ -48,13 +48,14 @@ tag_archive:
 defaults:
   # pages
   - scope:
-      path: _pages
+      path: ""
+      type: pages
     values:
       sidebar:
         nav: docs
   # _posts
   - scope:
-      path: _posts
+      path: ""
       type: posts
     values:
       layout: single
