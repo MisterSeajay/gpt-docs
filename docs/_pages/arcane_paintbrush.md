@@ -4,9 +4,6 @@ layout: single
 classes: wide
 permalink: /arcane_paintbrush/
 gallery:
-  - url: /assets/images/arcane_pali-01.jpg
-    image_path: /assets/images/arcane_pali-01.jpg
-    alt: "Arcane Paintbrush example 1"
   - url: /assets/images/arcane_pali-02.jpg
     image_path: /assets/images/arcane_pali-02.jpg
     alt: "Arcane Paintbrush example 2"
