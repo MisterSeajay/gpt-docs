@@ -4,12 +4,15 @@ layout: single
 classes: wide
 permalink: /arcane_paintbrush/
 gallery:
-  - url: /assets/images/arcane_paintbrush_01.jpg
-    image_path: /assets/images/arcane_paintbrush_01.jpg
+  - url: /assets/images/arcane_pali_01.webp
+    image_path: /assets/images/arcane_paintbrush_01.webp
     alt: "Arcane Paintbrush example 1"
-  - url: /assets/images/arcane_paintbrush_02.jpg
-    image_path: /assets/images/arcane_paintbrush_02-square.jpg
+  - url: /assets/images/arcane_pali_02.jpg
+    image_path: /assets/images/arcane_pali_02.jpg
     alt: "Arcane Paintbrush example 2"
+  - url: /assets/images/arcane_pali_03.jpg
+    image_path: /assets/images/arcane_pali_03.jpg
+    alt: "Arcane Paintbrush example 3"
 ---
 
 An image-generating GPT intended to be used to illustrate role-playing game
