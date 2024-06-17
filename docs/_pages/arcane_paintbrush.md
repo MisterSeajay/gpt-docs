@@ -4,14 +4,14 @@ layout: single
 classes: wide
 permalink: /arcane_paintbrush/
 gallery:
-  - url: /assets/images/arcane_pali_01.webp
-    image_path: /assets/images/arcane_paintbrush_01.webp
+  - url: /assets/images/arcane_pali-01.webp
+    image_path: /assets/images/arcane_paintbrush-01.webp
     alt: "Arcane Paintbrush example 1"
-  - url: /assets/images/arcane_pali_02.jpg
-    image_path: /assets/images/arcane_pali_02.jpg
+  - url: /assets/images/arcane_pali-02.jpg
+    image_path: /assets/images/arcane_pali-02.jpg
     alt: "Arcane Paintbrush example 2"
-  - url: /assets/images/arcane_pali_03.jpg
-    image_path: /assets/images/arcane_pali_03.jpg
+  - url: /assets/images/arcane_pali-03.jpg
+    image_path: /assets/images/arcane_pali-03.jpg
     alt: "Arcane Paintbrush example 3"
 ---
 
